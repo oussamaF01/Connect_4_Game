@@ -25,7 +25,7 @@ This is a console-based implementation of the classic **Connect Four** game. The
 To compile the game, use the following command in your terminal:
 
 \`\`\`bash
-gcc -o connect_four connect_four.c
+gcc -o connect_four puissance 4.c
 \`\`\`
 
 ### Execution
