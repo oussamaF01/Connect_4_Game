@@ -52,9 +52,6 @@ To start the game, run the following command:
 - **Medium**: The bot occasionally makes random moves but also attempts to block your winning moves.
 - **Hard**: The bot prioritizes blocking your winning moves and also attempts to create winning opportunities for itself.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Credits
 
